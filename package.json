@@ -1,0 +1,26 @@
+{
+  "name": "chatbot-node-react-",
+  "version": "1.0.0",
+  "description": "react bot for web page",
+  "main": "index.js",
+  "engines": {
+    "node" : "10.16.2",
+    "npm" : "6.11.2"
+  }, 
+  "scripts": {
+    "start": "node index.js"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziedamami/Chatbot-node-react-.git"
+  },
+  "author": "Zied",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziedamami/Chatbot-node-react-/issues"
+  },
+  "homepage": "https://github.com/ziedamami/Chatbot-node-react-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
