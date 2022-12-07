@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/ziedamami/Chatbot-node-react-#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "dialogflow": "^0.12.2",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
